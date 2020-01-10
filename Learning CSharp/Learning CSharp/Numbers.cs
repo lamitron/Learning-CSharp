@@ -10,7 +10,7 @@ namespace Learning_CSharp
             int min = int.MinValue;
             Console.WriteLine(max);
             Console.WriteLine(min);*/
-            var max = double.MaxValue;
+            double max = double.MaxValue;
             double min = double.MinValue;
             Console.WriteLine($"The range of double is {min} to {max}");
             int counter = 0;

@@ -4,7 +4,6 @@ Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Lea
 Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\bin\Debug\netcoreapp2.1\Learning CSharp.dll
 Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\bin\Debug\netcoreapp2.1\Learning CSharp.pdb
 Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\obj\Debug\netcoreapp2.1\Learning CSharp.csprojAssemblyReference.cache
-Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\obj\Debug\netcoreapp2.1\Learning CSharp.csproj.CoreCompileInputs.cache
 Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\obj\Debug\netcoreapp2.1\Learning CSharp.AssemblyInfoInputs.cache
 Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\obj\Debug\netcoreapp2.1\Learning CSharp.AssemblyInfo.cs
 Z:\OneDrive\Documents\GitHub\Learning CSharp\Learning-CSharp\Learning CSharp\Learning CSharp\obj\Debug\netcoreapp2.1\Learning CSharp.dll

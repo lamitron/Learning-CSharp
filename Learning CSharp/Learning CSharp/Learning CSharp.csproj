@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Compile Remove="Hello World.cs" />
+    <Compile Remove="Numbers.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 

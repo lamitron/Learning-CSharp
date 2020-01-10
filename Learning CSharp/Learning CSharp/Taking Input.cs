@@ -11,12 +11,12 @@ namespace Learning_CSharp
             Console.WriteLine($"Hello there {name}");
             Console.WriteLine($"{name}, do you like my program?");
             string opinion = Console.ReadLine();
-            opinion = opinion.ToLower
-            if (opinion[1] == 'y')
+            opinion = opinion.ToLower();
+            if (opinion[0] == 'y')
             {
                 Console.WriteLine("Thanks! :)");
             }
-            else if (opinion[1] == 'n')
+            else
             {
                 Console.WriteLine("Sorry, please tell me what I could do to improve :'(");
             }

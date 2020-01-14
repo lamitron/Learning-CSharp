@@ -6,10 +6,12 @@
     <RootNamespace>Learning_CSharp</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
   <ItemGroup>
-    <Compile Remove="Hello World.cs" />
-    <Compile Remove="Numbers.cs" />
-    <Compile Remove="Program.cs" />
   </ItemGroup>
 
 </Project>
